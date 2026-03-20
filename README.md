@@ -1,7 +1,7 @@
 # Titanic Survival Prediction
 
 # About
-The project is about me creating models and comparing which model fits the data more accurately by comparing their percentage and ultimately the model with the higher percentage prove to be more accurate
+A machine learning project that predicts which model fits the data more accurately by comparing their percentage and ultimately the model with the higher percentage prove to be more accurate
 
 # The dataset 
 I used some datas like Survivals, Passengerclass, their Sex and how different genders or their passenger class would ultimately affect their suvival rates
